@@ -8,6 +8,7 @@ The ultimate goal of this project is to ensure that a database can remain privat
 
 Assumptions:
   1. Generating inferences out of information is like generating topic models.
+  2. It would be easier to track attackers if we treat each relation the attacker accesses as sepearate "blocks" of information that somehow relate to one another, all the relations mantaining the same schema. 
 
 General Steps:
   1. While all relations are part of the database, we will treat them as disjoint objects known as "blocks" or "nodes" in order to keep track of information accessed by an attacker.
