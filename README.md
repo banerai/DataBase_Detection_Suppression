@@ -1,4 +1,4 @@
-# DataBase_Detection_Search
+# DataBase_Detection_Suppression
 
 The goal of this startup project is to create a structure that can 
   1. Detect if an attacker is close to inferring a verifiable pattern of transactions a user stored in the database makes
