@@ -12,5 +12,5 @@ General Steps:
   3. Create a fast, scalable version of inference comparison and modification that can handle the addition of new relations. (A problem I do not have in mind on how to tackle, but I'm sure I can get over this technical challenge easily enough once we get there :). Well, actually, see [1] Section 2.2.1. )
   
 Useful papers:
-[1] https://arxiv.org/ftp/arxiv/papers/1711/1711.04305.pdf
+  [1] https://arxiv.org/ftp/arxiv/papers/1711/1711.04305.pdf (Methods in Topic Generation)
 
