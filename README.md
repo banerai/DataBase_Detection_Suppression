@@ -1,8 +1,8 @@
 # DataBase_Detection_Search
 
 The goal of this startup project is to create a structure that can 
-  a) Detect if an attacker is close to inferring a verifiable pattern of transactions a user stored in the database makes
-  b) Suppress information that can lead to a verifiable, non-ambiguous inference.
+  1. Detect if an attacker is close to inferring a verifiable pattern of transactions a user stored in the database makes
+  2. Suppress information that can lead to a verifiable, non-ambiguous inference.
   
 The ultimate goal of this project is to ensure that a database can remain private by not giving away enough information to an attacker for him/her to make successful inferences about transaction patterns of a user. 
 
