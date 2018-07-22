@@ -20,3 +20,5 @@ Useful papers:
 
 Notes using LDA https://www.youtube.com/watch?v=DWJYZq_fQ2A :
 1. In this scenario, it is best to only consider the probability distibution of topics over latent words. The probability distribution of "documents over latent topics" can be considered when dealing with multiple databases, providing a catchall method if an attacker wants to migrate to a different database in the entire database system. In this simplistic case we are tackling, we are only dealing with "one document" (one database).
+
+Basis for code? https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/
