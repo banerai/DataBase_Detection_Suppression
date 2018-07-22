@@ -18,3 +18,6 @@ General Steps:
 Useful papers:
   [1] https://arxiv.org/ftp/arxiv/papers/1711/1711.04305.pdf (Methods in Topic Generation)
 
+Notes:
+Using LDA:
+1. In this scenario, it is best to only consider the probability distibution of topics over latent words. The probability distrinbution of "documents over latent topics" can be considered when dealing woth multiple databases, providing a cachall method if an attacker wants to migrate to a different database in the entire database system.
