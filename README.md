@@ -24,3 +24,5 @@ Notes using LDA https://www.youtube.com/watch?v=DWJYZq_fQ2A :
 Is this a good potential basis for code? : https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/
 
 May help with code: https://www.youtube.com/watch?v=BuMu-bdoVrU
+
+Found out that assumption is wrong because assumption for LDA is not related to our problem
